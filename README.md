@@ -77,6 +77,7 @@ Datalogger - Solarman based - direct connection - e.g., `DLS-W`
 
 Cloud connection - [any Solis datalogger](https://github.com/alienatedsec/solis-ha-modbus-cloud#supported-solis-dataloggers)
 - [Solis Sensor](https://github.com/hultenvp/solis-sensor)
+- [Solis Cloud Control](https://github.com/mkuthan/solis-cloud-control)
 
 ## MQTT
 - [SolisMon3](https://github.com/NosIreland/solismon3) - advertising Solis' Inverter data to MQTT - compatible with `DLS-W`
